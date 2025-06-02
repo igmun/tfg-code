@@ -1,7 +1,7 @@
 
 
 
-
+---
 
 THESIS-ML-NASDAQ/
 │
@@ -26,7 +26,7 @@ THESIS-ML-NASDAQ/
 ├── .gitignore
 └── README.md
 
-
+---
 
 
 ---
