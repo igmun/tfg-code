@@ -1,0 +1,27 @@
+# Data providers
+nasdaq-data-link
+lseg-data
+
+# Data manipulation
+pandas
+numpy
+
+# Feature engineering
+ta
+
+# Visualization
+matplotlib
+seaborn
+missingno
+cufflinks
+plotly
+
+# Machine learning
+scikit-learn
+xgboost
+tensorflow
+keras-tuner
+
+# Utilities
+tqdm
+configparser

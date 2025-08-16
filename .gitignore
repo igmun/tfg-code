@@ -1,3 +1,5 @@
 config
 others
 largefiles
+notebooks/9. XGBoost-experiments.ipynb
+notebooks/XGBoost-Probabilistic.ipynb
